@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EED818?style=flat-square&logo=Javascript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-NestJS-543B79?style=flat-square&logo=NestJS&logoColor=white"/>
  <img src="https://img.shields.io/badge/-GraphQL-F05032?style=flat-square&logo=GraphQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-apollographql-543B79?style=flat-square&logo=apollographql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=PostgreSQL&logoColor=black"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=React&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -42,6 +44,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabih1996&theme=tokyonight">
 </p>
 
-
-
-⭐ *Star and Fork this repo to try new feature!* 
