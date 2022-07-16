@@ -5,10 +5,11 @@
  
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mean stack
+- 🔭 I’m currently working on MERN stack
+- 🌱 I'm currently learning Aws services and unit testing for nodejs appa.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Nodejs,nestjs,mongodb,Angular,Frontend 
+- 💬 Ask me about Nodejs,Nestjs,Expressjs,React,Nextjs,postgresql,mongoDB,Grahql,Apollo server,Apollo client 
  
 <h3>Things I code with</h3>
 <p>
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <img src ="https://github-readme-stats.vercel.app/api?username=sabih1996&show_icons=true&theme=radical&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabih1996&hide=css,html&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabih1996&theme=tokyonight">
 </p>
 
 
