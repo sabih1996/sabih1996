@@ -32,9 +32,6 @@ Here are some ideas to get you started:
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-
-
-
 <h3>My Github Stats: </h3>
 
 <br>
@@ -43,4 +40,8 @@ Here are some ideas to get you started:
   <img src ="https://github-readme-stats.vercel.app/api?username=sabih1996&show_icons=true&theme=radical&line_height=27">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabih1996&theme=tokyonight">
 </p>
+
+<h3>To connect with me, </h3>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hafiz-sabih-ul-hassan-758a81134/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/hafizsabih.ulhassan)
 
