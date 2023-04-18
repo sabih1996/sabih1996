@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN stack
-- 🌱 I'm currently learning Aws services and unit testing for nodejs appa.
+- 🌱 I'm currently working Aws services and unit testing for nodejs apps.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Nodejs,Nestjs,Expressjs,React,Nextjs,postgresql,mongoDB,Grahql,Apollo server,Apollo client 
