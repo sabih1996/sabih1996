@@ -5,11 +5,11 @@
  
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MERN stack
-- 🌱 I'm currently working Aws services(S3, EC2, ECS, AWS Lambda) and unit testing for nodejs apps.
+- 🔭 I’m currently working as Senior Full Stack Engineer
+- 🌱 I'm currently working Aws services S3, EC2, ECS, AWS Lambda, IAC , Terrafrom, Aws CDK and test driven development for NodeJS apps.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Nodejs,Nestjs,Expressjs,React,Nextjs,postgresql,mongoDB,Grahql,Apollo server,Apollo client 
+- 💬 Ask me about Nodejs, Nestjs,Expressjs, React,Nextjs,postgresql,mongoDB,Grahql,Apollo server,Apollo client 
  
 <h3>Things I code with</h3>
 <p>
