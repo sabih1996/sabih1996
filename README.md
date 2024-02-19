@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Senior Full Stack Engineer
-- 🌱 I'm currently working Aws services S3, EC2, ECS, AWS Lambda, IAC , Terrafrom, Aws CDK and test driven development for NodeJS apps.
+- 🌱 I'm currently working Aws services S3, EC2, ECS, AWS Lambda, IAC , Terrafrom, Aws CDK and TDD for NodeJS apps.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Nodejs, Nestjs,Expressjs, React,Nextjs,PostgreSQL,MongoDB,Grahql,Apollo server. 
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- 💬 Ask me about Nodejs, Nestjs,Expressjs, React,Nextjs,PostgreSQL,MongoDB,Grahql,Apollo server, S3, EC2, ECS, AWS Lambda, IAC , Terrafrom, Aws CDK and TDD. 
  
 <h3>Things I code with</h3>
 <p>
