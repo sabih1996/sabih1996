@@ -64,10 +64,10 @@ This version reflects your updated skills and tools with their respective icons,
 
 ⚙️ Unit Testing & DevOps Expertise
 
-1. Unit Testing: Extensive experience with Jest, TDD, and ensuring high code coverage.
-2. AWS Proficiency: Deep knowledge of AWS services including S3, EC2, Lambda, RDS, and more.
-3. Infrastructure as Code: Skilled in Terraform and AWS CDK to manage and automate cloud infrastructure.
-4. CI/CD Pipelines: Expertise in setting up CI/CD workflows using GitHub Actions, CircleCI, and more.
+- **Unit Testing:** Extensive experience with Jest, TDD, and ensuring high code coverage.
+- **AWS Proficiency:** Deep knowledge of AWS services including S3, EC2, Lambda, RDS, and more.
+- **Infrastructure as Code:** Skilled in Terraform and AWS CDK to manage and automate cloud infrastructure.
+- **I/CD Pipelines:** Expertise in setting up CI/CD workflows using GitHub Actions, CircleCI, and more.
 
 ### 🤝 Let's Connect!
 
