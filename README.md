@@ -1,7 +1,3 @@
-Here’s an updated and more engaging version of your GitHub profile overview:
-
----
-
 # Hey there, I'm Sabih Ul Hassan! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabih1996&label=Profile%20Views&color=blue&style=plastic" alt="sabih1996" /> </p>
