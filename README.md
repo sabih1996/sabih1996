@@ -61,19 +61,14 @@ I love sharing knowledge! Feel free to reach out if you want to discuss:
 This version reflects your updated skills and tools with their respective icons, making it both visually appealing and informative.
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabih1996&show_icons=true&theme=radical&line_height=27" alt="Sabih's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabih1996&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabih1996&show_icons=true&theme=algolia&line_height=27" alt="Sabih's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabih1996&theme=algolia" alt="Top Languages">
 </p>
 
 ### 🤝 Let's Connect!
 
 I’m always excited to connect with like-minded professionals and enthusiasts:
 
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/hafiz-sabih-ul-hassan-758a81134/)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/sabih-u-758a81134/)
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>](https://www.facebook.com/hafizsabih.ulhassan)
-
----
-
-This version of your profile overview is more engaging, visually appealing, and highlights your skills and current focus in a clear and professional manner.
