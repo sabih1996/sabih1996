@@ -62,6 +62,13 @@ This version reflects your updated skills and tools with their respective icons,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabih1996&theme=algolia" alt="Top Languages">
 </p>
 
+⚙️ Unit Testing & DevOps Expertise
+
+1. Unit Testing: Extensive experience with Jest, TDD, and ensuring high code coverage.
+2. AWS Proficiency: Deep knowledge of AWS services including S3, EC2, Lambda, RDS, and more.
+3. Infrastructure as Code: Skilled in Terraform and AWS CDK to manage and automate cloud infrastructure.
+4. CI/CD Pipelines: Expertise in setting up CI/CD workflows using GitHub Actions, CircleCI, and more.
+
 ### 🤝 Let's Connect!
 
 I’m always excited to connect with like-minded professionals and enthusiasts:
