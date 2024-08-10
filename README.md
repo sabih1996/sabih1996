@@ -22,26 +22,43 @@ I love sharing knowledge! Feel free to reach out if you want to discuss:
 - **DevOps:** AWS (S3, EC2, ECS, Lambda), Terraform, AWS CDK, CI/CD
 - **Best Practices:** TDD, Clean Code, Scalable Architectures
 
+### Certainly! Here’s an updated **Tools & Tech** section with the new skills and corresponding icons:
+
+---
+
 ### 🛠️ Tech Stack & Tools
-<p>
+
+<p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-DD0031?style=flat-square&logo=Next.js&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EED818?style=flat-square&logo=JavaScript&logoColor=white" /> 
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-543B79?style=flat-square&logo=NestJS&logoColor=white"/>
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-F05032?style=flat-square&logo=GraphQL&logoColor=white"/>
-  <img alt="ApolloGraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-543B79?style=flat-square&logo=ApolloGraphQL&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=PostgreSQL&logoColor=black"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=MongoDB&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=React&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white" />
-  <img alt="ES6" src="https://img.shields.io/badge/-ES6-F6D854?style=flat-square&logo=ES6&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2062AF?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-543B79?style=flat-square&logo=Bootstrap&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" />
+  <img alt="MicroServices" src="https://img.shields.io/badge/-MicroServices-FF6F00?style=flat-square&logo=MicroServices&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white" />
+  <img alt="Test Driven Development" src="https://img.shields.io/badge/-TDD-E34F26?style=flat-square&logo=TestCafe&logoColor=white" />
+  <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-007ACC?style=flat-square&logo=CircleCI&logoColor=white" />
+  <img alt="gRPC" src="https://img.shields.io/badge/-gRPC-0000CC?style=flat-square&logo=gRPC&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
+  <img alt="Ant Design" src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=Ant-Design&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+  <img alt="proto3" src="https://img.shields.io/badge/-Proto3-8A2BE2?style=flat-square&logo=Google-Cloud&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white" />
+  <img alt="TypeORM" src="https://img.shields.io/badge/-TypeORM-FE7A16?style=flat-square&logo=TypeORM&logoColor=white" />
+  <img alt="Sequelize.js" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white" />
+  <img alt="SDLC" src="https://img.shields.io/badge/-SDLC-6A1B9A?style=flat-square&logo=LeanKit&logoColor=white" />
 </p>
+
+---
+
+This version reflects your updated skills and tools with their respective icons, making it both visually appealing and informative.
 
 ### 📊 GitHub Stats
 
