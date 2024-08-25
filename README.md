@@ -14,8 +14,9 @@ Welcome to my GitHub profile! I'm a passionate **Senior Full Stack Engineer** wi
 I love sharing knowledge! Feel free to reach out if you want to discuss:
 - **Backend:** Node.js, Pythob, NestJS, Django, Express.js, GraphQL, Apollo Server
 - **Frontend:** React, Next.js
-- **Databases:** PostgreSQL, MongoDB
-- **DevOps:** AWS (S3, EC2, ECS, Lambda), Terraform, AWS CDK, CI/CD
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud and DevOps:** Load Balancers, Security Groups, AWS-CDK(Python, TypeScript), Route53, DNS, ECS, EC2(VM), API Gateway, Aurora, Lambda Functions, IAM, ECR, S3, Cognito, RDS, SES, Kubernetes, Infrastructure as Code, Docker, 
+    CI/CD,Terraform Cloud, Terraform, HCL.
 - **Best Practices:** TDD, Clean Code, Scalable Architectures
 
 ### Certainly! Here’s an updated **Tools & Tech** section with the new skills and corresponding icons:
