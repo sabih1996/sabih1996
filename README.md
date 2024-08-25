@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **Senior Full Stack Engineer** wi
 
 ### 💬 Ask Me About
 I love sharing knowledge! Feel free to reach out if you want to discuss:
-- **Backend:** Node.js, NestJS, Express.js, GraphQL, Apollo Server
+- **Backend:** Node.js, Pythob, NestJS, Django, Express.js, GraphQL, Apollo Server
 - **Frontend:** React, Next.js
 - **Databases:** PostgreSQL, MongoDB
 - **DevOps:** AWS (S3, EC2, ECS, Lambda), Terraform, AWS CDK, CI/CD
