@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabih1996&label=Profile%20Views&color=blue&style=plastic" alt="sabih1996" /> </p>
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Engineer** with a strong focus on **AWS services** and cutting-edge development practices.
-
 ### 🚀 What I’m Currently Up To
 - 🔭 **Current Role:** Full Stack Engineer, driving innovation and building scalable, secure, and cost-effective solutions.
 - 🌱 **Latest Focus:** AWS services like S3, EC2, ECS, AWS Lambda, Infrastructure as Code (IAC) with Terraform & AWS CDK, and Test-Driven Development (TDD) for Node.js applications.
