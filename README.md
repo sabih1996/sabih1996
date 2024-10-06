@@ -5,15 +5,13 @@
 Welcome to my GitHub profile! I'm a passionate **Senior Full Stack Engineer** with a strong focus on **AWS services** and cutting-edge development practices.
 
 ### 🚀 What I’m Currently Up To
-- 🔭 **Current Role:** Senior Full Stack Engineer, driving innovation and building scalable solutions.
+- 🔭 **Current Role:** Full Stack Engineer, driving innovation and building scalable, secure, and cost-effective solutions.
 - 🌱 **Latest Focus:** AWS services like S3, EC2, ECS, AWS Lambda, Infrastructure as Code (IAC) with Terraform & AWS CDK, and Test-Driven Development (TDD) for Node.js applications.
-- 👯 **Collaboration:** Always open to collaborating with other developers and content creators. Let’s build something amazing together!
 - 🥅 **2024 Goals:** Increase my contributions to Open Source projects and continue to refine my skills.
 
 ### 💬 Ask Me About
-I love sharing knowledge! Feel free to reach out if you want to discuss:
 - **Backend:** Node.js, Pythob, NestJS, Django, Express.js, GraphQL, Apollo Server
-- **Frontend:** React, Next.js
+- **Frontend:** React, Next.js, Response Designs
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Cloud and DevOps:** Load Balancers, Security Groups, AWS-CDK(Python, TypeScript), Route53, DNS, ECS, EC2(VM), API Gateway, Aurora, Lambda Functions, IAM, ECR, S3, Cognito, RDS, SES, Kubernetes, Infrastructure as Code, Docker, 
     CI/CD,Terraform Cloud, Terraform, HCL.
@@ -66,9 +64,9 @@ This version reflects your updated skills and tools with their respective icons,
 ⚙️ Unit Testing & DevOps Expertise
 
 - **Unit Testing:** Extensive experience with Jest, TDD, and ensuring high code coverage.
-- **AWS Proficiency:** Deep knowledge of AWS services including S3, EC2, Lambda, RDS, and more.
+- **AWS Proficiency:** Deep knowledge of AWS services including S3, EC2, Lambda Functions, RDS, and more.
 - **Infrastructure as Code:** Skilled in Terraform and AWS CDK to manage and automate cloud infrastructure.
-- **I/CD Pipelines:** Expertise in setting up CI/CD workflows using GitHub Actions, CircleCI, and more.
+- **CI/CD Pipelines:** Expertise in setting up CI/CD workflows using GitHub Actions, CircleCI, and more.
 
 ### 🤝 Let's Connect!
 
