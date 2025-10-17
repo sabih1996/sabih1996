@@ -5,7 +5,7 @@
 ### 🚀 What I’m Currently Up To
 - 🔭 **Current Role:** Full Stack Engineer, driving innovation and building scalable, secure, and cost-effective solutions.
 - 🌱 **Latest Focus:** AWS services like S3, EC2, ECS, AWS Lambda, Infrastructure as Code (IAC) with Terraform & AWS CDK, and Test-Driven Development (TDD) for Node.js applications.
-- 🥅 **2024 Goals:** Increase my contributions to Open Source projects and continue to refine my skills.
+- 🥅 **2025 Goals:** Increase my contributions to Open Source projects and continue to refine my skills.
 
 ### 💬 Ask Me About
 - **Backend:** Node.js, Pythob, NestJS, Django, Express.js, GraphQL, Apollo Server
