@@ -1,5 +1,4 @@
 # Hey there, I'm Sabih Ul Hassan! 👋 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabih1996&label=Profile%20Views&color=blue&style=plastic" alt="sabih1996" /> </p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabih1996&label=Profile%20Views&color=blue&style=flat-square" alt="sabih1996" /> <img src="https://img.shields.io/badge/Location-Espoo%2C%20Finland-blue?style=flat-square" alt="Location"/> <img src="https://img.shields.io/badge/Open%20to-New%20Opportunities-success?style=flat-square" alt="Open to work"/> </p>
 🧠 AI Full Stack Engineer | Agentic AI · LLMs · Node.js · React · AWS
 
