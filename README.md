@@ -32,7 +32,10 @@ Software Engineer @ Virtual Force · Lahore, Pakistan (Jul 2021 – May 2023)
 Shipped full-stack SaaS products across fintech, gaming, and transportation
 Contributed real-time GraphQL/NestJS services to eFuse, a gaming & esports networking platform
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sabih1996&show_icons=true&theme=algolia&line_height=27" alt="Sabih's GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabih1996&theme=algolia" alt="Top Languages"> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabih1996&show_icons=true&theme=algolia&line_height=27" alt="Sabih's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabih1996&theme=algolia" alt="Top Languages">
+</p>
 🤝 Let's Connect
 
 📍 Espoo, Finland  |  📧 hafizsabihulhassan1996@gmail.com
